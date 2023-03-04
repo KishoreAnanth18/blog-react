@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "React",
+      "body": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6]\n\nReact can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with the user interface and rendering components to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.[7][8]",
+      "author": "Kishore",
+      "id": 1
+    },
+    {
+      "title": "MERN",
+      "body": "MEAN (MongoDB, Express.js, AngularJS (or Angular), and Node.js)[1] is a free and open-source JavaScript software stack for building dynamic web sites and web applications.[2] A variation known as MERN replaces Angular with React.\n\nBecause all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments.\n\nThough often compared directly to other popular web development stacks such as the LAMP stack, the components of the MEAN stack are higher-level including a web application presentation layer and not including an operating system layer.[3]\n\nThe acronym MEAN was coined by Valeri Karpov.[4] He introduced the term in a 2013 blog post and the logo concept, initially created by Austin Anderson for the original MEAN stack LinkedIn group, is an assembly of the first letter of each component of the MEAN acronym.[5]",
+      "author": "Bhasith",
+      "id": 2
+    }
+  ]
+}
